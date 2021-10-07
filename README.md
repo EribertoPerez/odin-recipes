@@ -9,3 +9,5 @@ It is starting to look pretty good yo.
 Just added the second recipe to the index file.
 
 Now working on the third recipe. Pad Kra Pao Gai Kai Dao!.
+
+Finished all three recipes for the project.
